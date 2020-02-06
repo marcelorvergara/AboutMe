@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Biografia</string>
+    <string name="name">Marcelo Vergara</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"></string>
+    <string name="bio_text">Profissional com mais de 10 anos de atuação na área de tecnologia da informação e comunicação (TIC). \n\n
+                        Atuação em projetos, operação e suporte a atividades relacionadas a TIC.\n\n
+
+Líder de equipes de seis a dez analistas e técnicos;\n
+Relacionamento com empresas de outsourcing e telecomunicações;\n
+Especializado em redes de computadores;\n
+Conhecimento em servidores e segurança da informação.\n\n
+
+Perfil conciliador que valoriza o trabalho em equipe, inovação, criatividade e integridade. Dedicado e comprometido com resultados.</string>
+    <string name="imagem">imagem</string>
+</resources>
