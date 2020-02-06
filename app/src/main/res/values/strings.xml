@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Biografia</string>
     <string name="name">Marcelo Vergara</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
     <string name="yellow_star">Yellow star</string>
-    <string name="bio"></string>
+
     <string name="bio_text">Profissional com mais de 10 anos de atuação na área de tecnologia da informação e comunicação (TIC). \n\n
                         Atuação em projetos, operação e suporte a atividades relacionadas a TIC.\n\n
 
