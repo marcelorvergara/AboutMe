@@ -11,7 +11,7 @@ import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
 //Android Studio 3.5.3
-//branch AS
+//branch AS353    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
